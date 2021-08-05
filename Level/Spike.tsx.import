@@ -1,0 +1,20 @@
+[remap]
+
+importer="vnen.tiled_tileset_importer"
+type="TileSet"
+path="res://.import/Spike.tsx-bbd825b80cd67536fa504a445f9a21b1.res"
+
+[deps]
+
+source_file="res://Level/Spike.tsx"
+dest_files=[ "res://.import/Spike.tsx-bbd825b80cd67536fa504a445f9a21b1.res" ]
+
+[params]
+
+custom_properties=true
+tile_metadata=false
+image_flags=7
+embed_internal_images=false
+save_tiled_properties=false
+apply_offset=false
+post_import_script=""
